@@ -1,82 +1,64 @@
 {
-    "images": [
-        {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
-        },
-        {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
-        },
-        {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
-        },
-        {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
-        },
-        {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
-        },
-        {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
-        },
-        {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
-        },
-        {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
-        },
-        {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
-        },
-        {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
-        },
-        {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
-        },
-        {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
-        },
-        {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
-        }
+  "images": [
+    {
+      "imgPath": "img/cars/ford_model_t.webp",
+      "imgLocation": "United States",
+      "description": "Ford Model T",
+      "date": "1908"
+    },
+    {
+      "imgPath": "img/cars/volkswagen_beetle.jpg",
+      "imgLocation": "Germany",
+      "description": "Volkswagen Beetle",
+      "date": "1938"
+    },
+    {
+      "imgPath": "img/cars/toyota_corolla.jpg",
+      "imgLocation": "Japan",
+      "description": "Toyota Corolla",
+      "date": "1966"
+    },
+    {
+      "imgPath": "img/cars/ferrari_250_gto.avif",
+      "imgLocation": "Italy",
+      "description": "Ferrari 250 GTO",
+      "date": "1962"
+    },
+    {
+      "imgPath": "img/cars/porsche_911.avif",
+      "imgLocation": "Germany",
+      "description": "Porsche 911",
+      "date": "1964"
+    },
+    {
+      "imgPath": "img/cars/lamborghini_revuelto.jpg",
+      "imgLocation": "Italy",
+      "description": "Lamborghini Revuelto",
+      "date": "2023"
+    },
+    {
+      "imgPath": "img/cars/honda_civic.avif",
+      "imgLocation": "Japan",
+      "description": "Honda Civic",
+      "date": "1972"
+    },
+    {
+      "imgPath": "img/cars/bmw_m3.jpg",
+      "imgLocation": "Germany",
+      "description": "BMW M3",
+      "date": "1986"
+    },
+    {
+      "imgPath": "img/cars/tesla_model_s.avif",
+      "imgLocation": "United States",
+      "description": "Tesla Model S",
+      "date": "2012"
+    },
+    {
+      "imgPath": "img/cars/bugatti_veyron.webp",
+      "imgLocation": "France",
+      "description": "Bugatti Veyron",
+      "date": "2005"
+    }
   ]
 }
